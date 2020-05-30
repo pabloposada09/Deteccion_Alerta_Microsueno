@@ -1,0 +1,4 @@
+El modelo que se utilizó de la librería Dlib, no fue posible adjuntarlo en este repositorio debido a su tamaño, pero igualmente
+se encuentra disponible en el siguiente link. 
+
+http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
